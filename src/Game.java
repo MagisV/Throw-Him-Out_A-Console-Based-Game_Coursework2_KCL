@@ -163,7 +163,7 @@ public class Game
      */
     private void createPlayer()
     {
-        player = new Player("Joe", playingRoom, 30,false, false);
+        player = new Player("Joe", roseGarden, 30,false, false);
     }
 
 
